@@ -1,6 +1,6 @@
 # What?
 
-This is an example application for sqlite3-usage with a prepoluated database
+This is an example application for sqlite3-usage with a prepopulated database
 
 # Installation
 
